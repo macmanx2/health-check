@@ -11,7 +11,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	</p>
 
 	<p>
-		<?php esc_html_e( 'By enabling the troubleshooting mode, all plugins will appear deactivated for your current logged in session, but all other users will see your site as usual.', 'health-check' ); ?>
+		<?php esc_html_e( 'By enabling the troubleshooting mode, all plugins will appear deactivated for you, but all other users will see your site as usual.', 'health-check' ); ?>
 	</p>
 
 	<p>
